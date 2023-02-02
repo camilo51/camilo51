@@ -51,6 +51,9 @@
   <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"> -->
 </p>
 
+<h4>Edcation</h4>
+<img src="https://img.shields.io/badge/Udemy-EC5252?style=for-the-badge&logo=Udemy&logoColor=white">
+
 <!-- <a target="_blank" href="https://dev.to/envoy_/150-badges-for-github-pnk">150+ Badgets aquí!</a> -->
 
 ---
