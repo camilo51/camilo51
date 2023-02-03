@@ -97,7 +97,7 @@ Text         4 mins          ░░░░░░░░░░░░░░░░░
 
 ---
 
-### Iconos & badgets sociales
+### Social media
 
 <p>
   <a href="https://www.linkedin.com/in/cristianpereira51/">
