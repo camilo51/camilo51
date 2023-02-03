@@ -1,8 +1,10 @@
-## Cristian Camilo Pereira Florez
+# Cristian Camilo Pereira Florez
 
-### Badges
+<p>Web development expert with 3 years of experience in developing dynamic and scalable web solutions using HTML, CSS, SASS, JavaScript, PHP and MySQ.</p>
 
- ★  Programming Languages
+## Badges
+
+### ★ Programming Languages
 <p>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
 <!--   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"> -->
