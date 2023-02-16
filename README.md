@@ -65,8 +65,17 @@
 
 <table>
   <tr>
-    <td valign="top"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=camilo51&theme=radical&card_width=450em)](https://github.com/camilo51/camilo51/github-readme-stats"/></td>
-    <td valign="top"><img height="180em" src="https://github-readme-stats.vercel.app/api?username=camilo51&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&theme=radical&hide_stars=false" /></td>
+    <td valign="top">
+      <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=camilo51&theme=dark&card_width=260em&layout=compact&langs_count=6"/>
+    </td>
+    <td valign="top">
+      <img height="180em" src="https://github-readme-stats.vercel.app/api?username=camilo51&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&theme=dark&hide_stars=false">
+    </td>
+  </tr>
+  <tr>
+    <td valign="top">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=camilo51&repo=EDM_Festival&theme=dark">
+    </td>
   </tr>
 </table>
 
