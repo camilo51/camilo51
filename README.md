@@ -1,6 +1,6 @@
 <h1 align="center">Cristian Camilo Pereira Florez</h1>
 
-<p align="center">Web development expert with 3 years of experience in developing dynamic and scalable web solutions using HTML, CSS, SASS, JavaScript, PHP and MySQ.</p>
+<p align="center">Web development expert with 3 years of experience in developing dynamic and scalable web solutions using HTML, CSS, SASS, JavaScript, PHP & MySQL.</p>
 
 ## Badges
 
